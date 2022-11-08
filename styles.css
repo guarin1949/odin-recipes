@@ -1,0 +1,36 @@
+/* styles.css */
+
+img {
+    height: auto;
+    width: 300px;
+    }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.imglabel {
+    text-align: center;
+}
+
+.headctr {
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+}
+
+#btn {
+    text-align: center;
+    border: 3px solid black;
+    background-color: green;
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
